@@ -5,5 +5,5 @@ Created on Mon Sep 14 07:36:04 2020
 
 @author: stephanieforbes
 """
-
-print("Hello")
+def helloworld():
+  print("Hello")
