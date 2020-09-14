@@ -7,3 +7,7 @@ Created on Mon Sep 14 07:36:04 2020
 """
 def helloworld():
   print("Hello")
+
+  
+def addition(x, y):
+  return x + y
